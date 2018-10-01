@@ -1,0 +1,15 @@
+{
+  "name": "week2",
+  "version": "1.0.0",
+  "description": "KWEB 준스 2주차 실습",
+  "main": "index.js",
+  "author": "MG BAE",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  },
+  "scripts": {
+    "start" : "node index.js",
+    "start:dev": "nodemon index.js"
+  }
+}
